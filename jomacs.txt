@@ -1,3 +1,2 @@
-We love git
 We like Git
 We hate Git
