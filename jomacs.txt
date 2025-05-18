@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 We like Git
 We hate Git
+=======
+We love git
+>>>>>>> parent of 0da294f (added text to jomacs.txt)
